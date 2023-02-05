@@ -1,16 +1,22 @@
-# event_schedule
+## Flutter Evenet Schedule App
 
-A new Flutter project.
+Here you can find some Flutter examples.
 
-## Getting Started
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+### Home Page
+<img src="assets/screenshots/home-page.png" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Links
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* [Website](https://afgprogrammer.com)
+* [Youtube channel](https://youtube.com/afgprogrammer)
+* [Twitter](https://twitter.com/afgprogrammer)
+* [Instagram](https://instagram.com/afgprogrammer)
