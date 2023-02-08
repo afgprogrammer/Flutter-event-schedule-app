@@ -34,7 +34,7 @@ class _ChooseEventPageState extends State<ChooseEventPage> {
                     Text("Choose Your Favorite Event", textAlign: TextAlign.center, style: TextStyle(fontSize: 40, fontWeight: FontWeight.bold),),
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 16.0, horizontal: 20),
-                      child: Text("We will suggest event based on what you like", textAlign: TextAlign.center, style: TextStyle(fontSize: 18,),),
+                      child: Text("We will suggest events based on what you like", textAlign: TextAlign.center, style: TextStyle(fontSize: 18,),),
                     ),
                   ],
                 ),
