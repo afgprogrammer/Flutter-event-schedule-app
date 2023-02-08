@@ -1,3 +1,4 @@
+import 'package:event_schedule/Pages/choose_event.dart';
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 import 'package:shimmer/shimmer.dart';
@@ -159,7 +160,9 @@ class _HomePageState extends State<HomePage> {
                 Column(
                   children: [
                     MaterialButton(
-                      onPressed: () => {},
+                      onPressed: () => {
+                        Navigator.of(context).push(MaterialPageRoute(builder: (context) => ChooseEventPage()))
+                      },
                       height: 50,
                       elevation: 0,
                       highlightElevation: 0,
